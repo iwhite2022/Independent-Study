@@ -8,7 +8,7 @@ library(AICcmodavg)
 
 #load initial data frame
 library(readr)
-thesis_data <- read_csv("Documents/ECU/Graduate Program/Thesis Documents /Final DATA/2.8-FINAL.DATASET.THESIS.csv")
+thesis_data <- read_csv()
 View(thesis_data)
  
 #### Extracting specific columns of data into a new data frame (new columns)
